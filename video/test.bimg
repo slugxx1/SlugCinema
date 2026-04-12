@@ -1,0 +1,337 @@
+return {
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffffffffffffff7977ffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffffffffffffffffffffb77ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffffffffffffffffffff77fffffffff77ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffffffff777ff7f77ffffffffff77fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffffffff87f7fffffffffffff7f7777fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffffffffffff768fffff7ffffffff7f777cc7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffff777788f777ffffffffffff7877cc7fff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffff7fc8c87f777ffffffffff7f887ccc7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffffffffff786c87f7ffffffffffffffc6c7ccc77ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffffffff7f863877ffffffffffffff7fc66c7ccec7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffff7f733368ffff7ffffffffff7f7668c7cccc7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffff7f8636687f7fffffffffff77f76368c7ccc7777fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffff8666668ff7f7ffffffff7ff78666877777cc77ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffff86666667f77ffff77ffff7778668c7ff7cceec77ffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffff888668687ff7fff77fffff778877f7cc7cccecc777fff77f777fffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffff77f7887c7ffff7777fff7fff77f77866c7cccceecc77fff77fffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffff7f88ff788c8777f777ffffff7ff77836866c77cccccccc77fffff7ffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffff7fc87fff7c68f77777ffffff7ff8663336668c7ccceecccc77ffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffff777fc68fffff867777777ff7fffffc663333366687ccceeeeeecc77fffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffff777fc68c7fff788777777f7fff77f766663336666877cccceeeeecc7777fffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffff77fffffffffffffffffffffff777fc666877c8c3cf7777f77f7ff77c888633388cc87f7cccceeecccccc777ffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffff77ffffffffffffffffffffffffffc686666668637f777778777f7fff7777777ff78777777ccccceeeeeeecc777ffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffff777ffffffffffffffffffffffffc66636666666877777f88f7777fff77ff7777888777f77777cccccccc777ffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffff77777ffffffffffffffffffffffc66663366666687777776877777ff7fff77c8663c7777fffff777777ffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffff777977ffff7ffffffffffffffff86666336666666877777868777c87777c86666638777777fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffff77777fff777fffffffffffffff866666666666666877778668778666666666666668777f7fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffff777777777fffffffffffffff8666668666666666877778668c8666666666666666cf7f7fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffff77997777ffffffffffffff786666886666666666877786366666666666666666687f77fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffff779997fffffffffffffff78666366666666666663878663666666666666666668f777fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffff7797ffffffffffffffff78666688666666663636633663666666666666666368fff7fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffff77f777ffff77ffffff777f73666688666666666666666666666666666666666668ffff77fffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffff777777777ffff7777f73633688666666666666666666666666666666666668fffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffff77ff777ff777f77ff77777777ffff7777f778633688666666666666666666666666666666666668fffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffff77777777777777777777777777777f7777f778633668666666666666666666666666666666666668fffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffff777797777779777777777777777777777778636666666666666666666666666666666666666368fffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffff7777777777797777777777777977777f777336666666666666666666666366366666666666668fffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffff7777777797777777777777779777777777336666666666666666688666666366666666666668fffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffff7777777777797777777777777777777866666666666668888888c8863666666666666666cfffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffff7777777777777777777777777777773366666666388cc88cc7c8c8666666666666666377ffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffff777777777777777777f77f7778666666668777777777777c78666666663666663777fffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffff7777777777777777ff77777773366666877777777777777776666666636666687777ffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffff7777ff77777777ff77777778666666877777777777777778666666336666687777ffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffff7ffffffffffff777777ff777777773666668777777777777777776666663366666877777fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777ffffffffffffffff77fffff7fff77777777f777777777c336666cff7777777777777786666633666668777f7fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777fffffffffffff7777fff777777777777ff777777777866666877f777777777777786666666666668777fffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'77777777fffffffffff7777777777777777777fff777777777733666877788c777777777786666666666687f7777fffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777fffff7777ff77777777777777777777fffff7777777fc36666cfc8888c77777777868666666668777777ffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777fffff777777f7777777777777777777ffffff7777777f86666877cc888888888cc6663663368c7777777ffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'77777777ffff777f77ff777777777777777777fffffffff7777f786666688ccc888888cc8666336638c7c7777f77ffff7ffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'777777777777ffffffffff7777777777777777fffffffff77777f73666666668888cccc86666363889ccc777f77fffff7ffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777777777fffffffffff77777777777777ffffffffff777f7786366666666668886666633888999cc7f777f7ffff7ffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777777fffffffffffffffffff777777777ffffffffffffff77783366633366366666663887cc999cc77777f7ffff77fffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777777fffffffffffffffffffffff77777fffffffffffffff7f73366633336636668888799cc997cc7777ff7ffff77fffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'777777777ffffffffffffffffffffffff77777fffffffffffffff77f8666666666888c77777999ccc97c77777f77ffff77fffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777777777777fffffffff77777777777777fffffffffffffff7ff888888cc77fffff7979999cc9797777ff77ffff77fffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'777777777777777777777777777777777777777fffff7fffffffffffff77ffffffffffff7c7ccc7cc8cc7f77ffffffff7c7ffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'777777777777777777777777777777777777777ffff777ffffffff7fffffffffffffffff7c7cccc7ccc77777ffffffff7c7ffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777777777777777777777777777777777777fff777ffffffffffffffffffffffffff7ccccccc7cc7777fffffffff7c7ffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'7777777777777777777777777777777777777777fff7777fffffffffffffffffffffffff7ccccccccc7777ffffffffff7c7ffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'777777777777777777777777777777777777777777f77777ffffffffffffffffffffffff77cccc77cc777777777fffff77fffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'777777777777777777777777777777777777777777777777ffffffffffffffffffffffff77c77977cc77777fc7f7ffff77fffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffff7777777777777777777777777777777777fffffffffffffffffffffff77cc7cc7c77777f788f7ffff7ffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffff7fffffff7777777777777777777777fffffffffffffffffffffff77cccc87c77777f8687f7ffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffff777777fffffffffffffffffffffffffff7cccc7887f77f73687ffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7c7c7837777773366cffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffccc883877777866687ffffffffffffffffff777777ffffffffffffffffffffffffffff'
+  },
+  {
+'                                                                                                                                               ',
+'00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000',
+'ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7888368777778668c77fffffffffffffffff7777ffff7ffffffffffffffffffffffffff'
+  }
+}
