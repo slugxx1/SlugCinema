@@ -1,7 +1,7 @@
 return {
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000066666666666666666666666666600000000000000005fff8440000000000000045fffffffffff444000000004cffffffffffc46666666666666666666666666666660000000000000000","00000000000000066666666666666666666666666666000000000000004fffff5400000000000000cfffffffffffff44000000005ffffffffffff46666666666666666666666666666666600000000000000")
 t.setCursorPos(1,2)
@@ -167,7 +167,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000066666666666666666666666666600000000000000005fff8440000000000000045fffffffffff444000000004cffffffffffc46666666666666666666666666666660000000000000000","00000000000000066666666666666666666666666666000000000000004fffff5400000000000000cfffffffffffff44000000005ffffffffffff46666666666666666666666666666666000000000000000")
 t.setCursorPos(1,2)
@@ -333,7 +333,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000066666666666666666666666666600000000000000005fff8440000000000000045fffffffffff444000000004cffffffffffc46666666666666666666666666666660000000000000000","00000000000000066666666666666666666666666666000000000000004fffff5400000000000000cfffffffffffff44000000005ffffffffffff46666666666666666666666666666666600000000000000")
 t.setCursorPos(1,2)
@@ -499,7 +499,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000066666666666666666666666666600000000000000005fff8440000000000000045fffffffffff444000000004cffffffffffc46666666666666666666666666666660000000000000000","00000000000000066666666666666666666666666666000000000000004fffff5400000000000000cfffffffffffff44000000005ffffffffffff46666666666666666666666666666666600000000000000")
 t.setCursorPos(1,2)
@@ -665,7 +665,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006feeeeeeefc000000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006feeeeeeefc000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -831,7 +831,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000feeeeeeeef000000000000000000000000000000000000000000000000000","00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007eeeeeeeef600000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -997,7 +997,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000007eeeeeeeef600000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000cfeeeeeeefe00000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -1163,7 +1163,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004feeeeeeee7000000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004400006feeeeeeeef600000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -1329,7 +1329,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006feeeeeeeef600000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006feeeeeeeef600000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -1495,7 +1495,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000feee7eeeeeefe0000000000000000000000000000000000000000000000000000","000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000feeeeeeeeeefe0000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -1661,7 +1661,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006feeeeeeeeeeeeeefe000000000000000000000000000000000000000000000000000000","000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006feeeeeeeeeeeeee7f600000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -1827,7 +1827,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000c000000000000000000000000000000efeeeeeee7eeeeeeeeeeeeeeef60000000000000000000000000000000000000000000000000000000","00000000000000000000000000000000000000000000000000800000000000000000000000000000006feeeeeefee7eeeeeeeeeeeeef80000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -1993,7 +1993,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000000880000000000000000000000000000006feeeeeefe77eeeeeeeeeeefe0000000000000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000000000000000800000000000000000000000000000006feeeeeef6efeeeeeeeeeeeff0000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -2159,7 +2159,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000008f80000000000000007fffc888cfffffffffeeeeeeeec60000000000000000000000000000000000000000000000000000000000000000000000","000000000000000000000000000000000000000000000000f800000000000000008fc77cc8cffffffff7eeeeeeeeff6000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -2325,7 +2325,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000008f7000000000000fffff8cc888ceffffff7f600000000000000000000000000000000000000000000000000000000000000000000000000000000","00000000000000000000000000000000000000000000000ff00000000000007ffff8888c8ffffffffeff80000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -2491,7 +2491,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000000000000000000006ffc007ff000008ffffffffffffffffffffff600000000000000000000000000000000000000000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000000ff8006fff000000ffffffffff78ffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -2657,7 +2657,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000008ffffff00006fffffffffffffff7fffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","00000000000000000000000000000000000000000fff87ff00000fffffffffffffff7ffffffc0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -2823,7 +2823,7 @@ t.blit(HB:rep(164),"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000008ffff80008fffffffffffffffffffff7f60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","000000000000000000000000000000000000000008fffff60008fffffffffffffffffffff7f60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -2989,7 +2989,7 @@ t.blit(HB:rep(164),"cceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000044440000000006fffff80006fffffffffffffffffffffef60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","00000000000000000000000000004444000000000ffffff60000fffffffffffffffffffff7f60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -3155,7 +3155,7 @@ t.blit(HB:rep(164),"88cccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000000000000000000000ffffff80000fffffffffffffffffffff7f60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","00000000000000000000000000000000000000007ffc8ff600007ffffffffffffffffffff7f60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -3321,7 +3321,7 @@ t.blit(HB:rep(164),"8888888ccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000cff78ff80000cffffffffffffffffffff7f60000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","0000000000000000000000000000000000000008ff708ff800008fffffffffffffffffffffff8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -3487,7 +3487,7 @@ t.blit(HB:rep(164),"8888888888cccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000008ff708ff800006fffffffffffffffffffff7fe000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","000000000000000000000000000000000000000ff7007ff800000ffffffffff7c7fffffffffefe00000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -3653,7 +3653,7 @@ t.blit(HB:rep(164),"88888888888888cccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000ff7008ff8000007ffffffffffc7fffffffffefe00000000000000000000000000000000000000000000000000000000000000000000000000000000000000","000000000000000000000000000000000000007f7000fff000000cfffffffff788ff7ffffff7efc0000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -3819,7 +3819,7 @@ t.blit(HB:rep(164),"888888888888888888cccceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000440000007f7000fff6000008fffffffff7887f7ffffff7eec0000000000000000000000000000000000000000000000000000000000000000000000000000000000000","00000000000000000000000000000044000008fc0008ff80000006ffffffff77c8effffffffeeefe000000000000000000000000000000000000000000000000000000000000000000000000000000000000")
 t.setCursorPos(1,2)
@@ -3985,7 +3985,7 @@ t.blit(HB:rep(164),"8888888888888888888888cccceee1eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000000000044111111111111111111111111111400000044000000000000006feeeeeeeeeeeefe000000000000000000000000000004feeeeeeeeeeeeeee","0000000000000000000000000000000000000000000000000041111111111111111111111111111400000044000000000000006feeeeeeeeeeeef6000000000000000000000000000004eeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -4151,7 +4151,7 @@ t.blit(HB:rep(164),"88888888888888888888888888888888888888888888888ceeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000044111111111144000000000000000000000000000000000000efeeeeeeeeeeee70000000000000000000000000000008feeeeeeeeeeeeeee","0000000000000000000000000000000000000000000000000000441111111111440000000000000000000000000000000000006feeeeeeeeeeefc0000000000000000000000000000006feeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -4317,7 +4317,7 @@ t.blit(HB:rep(164),"88888888888888888888888888888888888888888888888feeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000044440000004411111111111111111144000000004411111111000000000000000000000000efeeeeeeeeeeefc000000000000000000000000000000cfeeeeeeeeeeeeeee","000000000000000000000000000044440000004411111111111111111144000000004411111111000000000000000000000000efeeeeeeeeeeef80000000000000000000000000000008feeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -4483,7 +4483,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888efeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000441111111111111111111111111111440000444400000000000000efeeeeeeeeeeef80000000000000000000000000000047eeeeeeeeeeeeeeee","000000000000000000000000000000000000000000000000441111111111111111111111111111440000444400000000000000efeeeeeeeeeefe0000000000000000000000000000004cfeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -4649,7 +4649,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888444488efeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000044111111111400000000000000000000000000000000000000ffeeeeeeeeeefc0000000000000000000000000000000feeeeeeeeeeeeeeee","000000000000000000000000000000000000000000000000000044111111111400000000000000000000000000000000000000efeeeeeeeeeefe0000000000000000000000000000000ceeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -4815,7 +4815,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888114188eeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000044111111111400000000000000000000000000000000000000ffeeeeeeeeeefc0000000000000000000000000000000feeeeeeeeeeeeeeee","000000000000000000000000000000000000000000000000000044111111111400000000000000000000000000000000000000efeeeeeeeeeefe0000000000000000000000000000000ceeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -4981,7 +4981,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888114188eeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000044111111111400000000000000000000000000000000000000ffeeeeeeeeeefc0000000000000000000000000000000feeeeeeeeeeeeeeee","000000000000000000000000000000000000000000000000000044111111111400000000000000000000000000000000000000efeeeeeeeeeefe0000000000000000000000000000000ceeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -5147,7 +5147,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888114188eeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000008feeeeeeeeeef70000000000000000000000000000000efeeeeeeeeeeee7eee","000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000000efeeeeeeeeef600000000000000000000000000000006feeeeeeeeeeee7eee")
 t.setCursorPos(1,2)
@@ -5313,7 +5313,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000008feeeeeeeeeef70000000000000000000000000000000efeeeeeeeeeeee7eee","000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000000efeeeeeeeeef600000000000000000000000000000006feeeeeeeeeeee7eee")
 t.setCursorPos(1,2)
@@ -5479,7 +5479,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000008feeeeeeeeeef70000000000000000000000000000000efeeeeeeeeeeee7eee","000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000000efeeeeeeeeef600000000000000000000000000000006feeeeeeeeeeee7eee")
 t.setCursorPos(1,2)
@@ -5645,7 +5645,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000008feeeeeeeeeef70000000000000000000000000000000efeeeeeeeeeeee7eee","000000000000000000000000000000000000000000000000000011111111114400000000000000000000000000000000000000efeeeeeeeeef600000000000000000000000000000006feeeeeeeeeeee7eee")
 t.setCursorPos(1,2)
@@ -5811,7 +5811,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000006fffffffc4ffffffffffffffffffffffffffff145ffffffff668880efeeeeeeeeeeeeeef60000000000000000000000000006feeeeeeeeeee7e1cee","0000000000000000000000000000000000000000000008fffffff41ffffffffffffffffffffffffffff44cffffffff7688c8efeeeeeeeeeeeee7c00000000000000000000000000000f7eeeeeeeeeece4eee")
 t.setCursorPos(1,2)
@@ -5977,7 +5977,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000000000000000000000000006fffffffc4ffffffffffffffffffffffffffff145ffffffff668880efeeeeeeeeeeeeeef60000000000000000000000000006feeeeeeeeeee7e1cee","0000000000000000000000000000000000000000000008fffffff41ffffffffffffffffffffffffffff44cffffffff7688c8efeeeeeeeeeeeee7c00000000000000000000000000000f7eeeeeeeeeece4eee")
 t.setCursorPos(1,2)
@@ -6143,7 +6143,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000000000000000000000000000000441111114f540ff00000000000000000000000efeeeeeeeeeeeeeeeeeefe00000000000000000000000000000000000cfeeeeeeeeeeeeeeeee","00000000000000000000000000000000000000000000000000441111114f546ff0000000000000000000000cfeeeeeeeeeeeeeeeeeeef600000000000000000000000000000000000cfeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -6309,7 +6309,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceceeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000004444000000441111111111111111111408f006f644111111114400000000000cfeeeeeeeeeeeeeeeeeefc000000000000000000000000000000000000feeeeeeeeeeeeeeeeee","000000000000000000000000444400000044111111111111111111110c7008f644111111114400000000006feeeeeeeeeeeeeeeeeeef80000000000000000000000000000000000007eeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -6475,7 +6475,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888eceeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000004444000000441111111111111111111408f006f644111111114400000000000cfeeeeeeeeeeeeeeeeeefc000000000000000000000000000000000000feeeeeeeeeeeeeeeeee","000000000000000000000000444400000044111111111111111111110c7008f644111111114400000000006feeeeeeeeeeeeeeeeeeef80000000000000000000000000000000000007eeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -6641,7 +6641,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888eceeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"0000000000000000000000004444000000441111111111111111111408f006f644111111114400000000000cfeeeeeeeeeeeeeeeeeefc000000000000000000000000000000000000feeeeeeeeeeeeeeeeee","000000000000000000000000444400000044111111111111111111110c7008f644111111114400000000006feeeeeeeeeeeeeeeeeeef80000000000000000000000000000000000007eeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -6807,7 +6807,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888eceeeeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000044440000004111111111111111111144870008004444444444440000000006feeeeeeeeeeeeeeeeeeef6000000000000000000000000000000000000efeeeeeeeeeeeeeeeeee","00000000000000000000000044440000004111111111111111111144c70068004444444444440000000007eeeeeeeeeeeeeeeeeeee70000000000000000000000000000000000000efeeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -6973,7 +6973,7 @@ t.blit(HB:rep(164),"11448888888888888888888888888888888888888888881ceceeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000044440000004111111111111111111144870008004444444444440000000006eeeeeeeeeeeeeeeeeeeef6000000000000000000000000000000000000efeeeeeeeeeeeeeeeeee","00000000000000000000000044440000004111111111111111111144c70068004444444444440000000007eeeeeeeeeeeeeeeeeeee70000000000000000000000000000000000000efeeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -7139,7 +7139,7 @@ t.blit(HB:rep(164),"11448888888888888888888888888888888888888888881ceceeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"00000000000000000000000044440000004111111111111111111144870008004444444444440000000006eeeeeeeeeeeeeeeeeeeef6000000000000000000000000000000000000efeeeeeeeeeeeeeeeeee","00000000000000000000000044440000004111111111111111111144c70068004444444444440000000007eeeeeeeeeeeeeeeeeeee70000000000000000000000000000000000000efeeeeeeeeeeeeeeeeee")
 t.setCursorPos(1,2)
@@ -7305,7 +7305,7 @@ t.blit(HB:rep(164),"11448888888888888888888888888888888888888888881ceceeeeeeeeee
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -7471,7 +7471,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -7637,7 +7637,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -7803,7 +7803,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -7969,7 +7969,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -8135,7 +8135,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -8301,7 +8301,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -8467,7 +8467,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -8633,7 +8633,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -8799,7 +8799,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -8965,7 +8965,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -9131,7 +9131,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -9297,7 +9297,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -9463,7 +9463,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -9629,7 +9629,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -9795,7 +9795,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)

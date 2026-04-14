@@ -1,7 +1,7 @@
 return {
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffff0000000000000008ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffff00000000000000cffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -167,7 +167,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffeeeeee7ff7eeffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"fffffffffffffffffffff70000000000000008ffffffffffffffffffffffffffffffffffffeeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffff000000000000007ffffffffffffffffffffffffffffffffffffffeeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -333,7 +333,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffeeeeeec06fee86ffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -499,7 +499,7 @@ t.blit(HB:rep(164),"777fffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -665,7 +665,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffff")
 t.setCursorPos(1,2)
@@ -831,7 +831,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -997,7 +997,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff777777777fffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -1163,7 +1163,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffff7777777fffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffff77777777777fffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -1329,7 +1329,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff777777777777777777ffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff77777777777777777777fffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -1495,7 +1495,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7777777777777777fffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff77777777777777777777fffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -1661,7 +1661,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffff7f777fffffffffffffffffffffffffffffffffffffffffffffff7ffff77fffffffffffffffffffffffffffffffffff77777777777777ffff77ffff7fffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff77777777777777ffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -1827,7 +1827,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff777777ffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7777777fffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -1993,7 +1993,7 @@ t.blit(HB:rep(164),"fffffffffffffffffffffffffffffccccccccccccc7fffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7777ffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -2159,7 +2159,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffccccccccccccccccccccffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -2325,7 +2325,7 @@ t.blit(HB:rep(164),"fffffffffffffffffffffffffffff7cccccccccccccccccccfffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -2491,7 +2491,7 @@ t.blit(HB:rep(164),"7777777fccccccccccccccccc7ffffffff7777777777fc7fff7777ffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -2657,7 +2657,7 @@ t.blit(HB:rep(164),"7777f7fffffffffffffffffffffffffff7777777777fffff77f7ffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7888877ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff786000008c7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -2823,7 +2823,7 @@ t.blit(HB:rep(164),"77777ffffffffffffffffffffffffff77777777777fffff7f77fffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -2989,7 +2989,7 @@ t.blit(HB:rep(164),"777fffffffffffffffffffffffffff7777777777ffffff7f7fffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -3155,7 +3155,7 @@ t.blit(HB:rep(164),"77ffffffffffffffffffffffffff77777777777fffff7777ffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -3321,7 +3321,7 @@ t.blit(HB:rep(164),"7fffffffffffffffffffffffff777777777777fffff7777fffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -3487,7 +3487,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -3653,7 +3653,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffcffffffffffffffffffffffffffc4444
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -3819,7 +3819,7 @@ t.blit(HB:rep(164),"fffffffffffffffffffffffffffffffffffffffffffffffffffffc444444
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ccffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -3985,7 +3985,7 @@ t.blit(HB:rep(164),"fffffffffffffffffffffffffffffffffffffffffffffffffffff44444ff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -4151,7 +4151,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -4317,7 +4317,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -4483,7 +4483,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -4649,7 +4649,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -4815,7 +4815,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"fffffffffffffffffffffff77f777f77777ff77f77f77777777777ff7777f7f7777777777f77777777777777ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","fffffffffffffffffffffff7f7777fff77fff7ff7777f777f7f777ff777ffff77777f77f7ff777f777777777ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
 t.setCursorPos(1,2)
@@ -4981,7 +4981,7 @@ t.blit(HB:rep(164),"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777ff7777777777777777777777777777777777777","7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777f77777777777777777ff77777777777777777777")
 t.setCursorPos(1,2)
@@ -5147,7 +5147,7 @@ t.blit(HB:rep(164),"777777777777777777777777777777777777777777777777777777777777
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"77777777777777777777777777777777777777777777777777777777777777777777777777777777c7777c7c7777777777777777777777777777777777777777777777777777777777777777777777777777","7777777777777777777777777777777777777777777777777777777777777777777777777777777777cccccc7777777777777777777777777777777777777777777777777777777777777777777777777777")
 t.setCursorPos(1,2)
@@ -5313,7 +5313,7 @@ t.blit(HB:rep(164),"777777777777777777777777777777777777777777777777777777777777
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"7777777777777777777777cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc7777777777777777777777777777777777777777777777777777777777777777777777777777","7777777777777777777777ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc777777777777777777777777777777777777777777777777777777777777777777777777777")
 t.setCursorPos(1,2)
@@ -5479,7 +5479,7 @@ t.blit(HB:rep(164),"7c7777c7cccccccccc77ccccccc77c7c77cc7cc7c77cccccc77c7ccccc7c
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"cccccccccccccccccccccc88c8888c88888c888c8888888888888ccc888cccc8888c88c8c888888888888888c7ccccccccccc7ccc7ccccc7cccccccc7cccc777ccccc7c77ccc7ccccc7ccccccccccccccccc","cccccccccccccccccccccc8cc8888c888888888c888c888888c88888888ccc88888cc8c88cc8888888888888ccccc7cccccc7cc77c7c7cc7cccccccccccc7ccccccccccc77ccc777c7ccccccc77ccc7cc7cc")
 t.setCursorPos(1,2)
@@ -5645,7 +5645,7 @@ t.blit(HB:rep(164),"ccccccccccccccc8ccccccc8cccccccccccccccccccccccccccccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c88888888c888cc8c8c8c88888888888888888888888888888888888888888888888888888888888888888888ccccc8cccccccccccccccccccccccccc888cccccc88ccccccccccccccc8cccccccccccccccc","c8888cc8c888ccc88c88c88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8cc8cccc88c88ccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -5811,7 +5811,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888c8888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8888c888c888c8888c8c88888888888888888888888888888888888888888888888888888888888888888888ccccc8cccccccccccccccccccccccccc888cccccc88ccccccccccccccc8cccccccccccccccc","c8888c88c888ccc88c88c88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8cc8cccc88c88ccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -5977,7 +5977,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8888c8888888c8888c8888888888888888888888888888888888888888888888888888888888888888888888ccccc8cccccccccccccccccccccccccc888cccccc88ccccccccccccccc8cccccccccccccccc","c8888c88c888cc888c8cc88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc88c8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -6143,7 +6143,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8888c8888888c8888c8c88888888888888888888888888888888888888888888888888888888888888888888ccccc8cccccccccccccccccccccccccc888cccc8c88ccccccccccccccc8cccccccccccccccc","c8888c888888cc888c8cc88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc88c8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -6309,7 +6309,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8888c8888888c888cc8888888888888888888888888888888888888888888888888888888888888888888888ccccc8cccccccccccccccccccccccccc888cccccc8cccccccccccccccc8cccccccccccccccc","c8888c8888888c888c8cc88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc88c8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -6475,7 +6475,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88888c8888888c888cc8888888888888888888888888888888888888888888888888888888888888888888888ccccc8cccccccccccccccccccccccccc888cccc8c8cccccccccccccccc8cccccccccccccccc","c8888cc8c888cc88cc8cc88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc88c8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -6641,7 +6641,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8888c888888cc888cc888888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccccccccccc888cccccc8cccccccccccccccc8cccccccccccccc8c","88888cc88888cc88cc8cc88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc88c8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -6807,7 +6807,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8888c888888cc888c8c88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccccccccccc888cccccc8cccccccccccccccc8cccccccccccccc8c","8888cc8c8888cc88c88cc88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc8cc8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -6973,7 +6973,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88888c888888cc888c8c88888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccc8ccccccccccccc888cccccc8cccccccccccccccc8cccccccccccccccc","c888cc888888c888c88c888888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccccc8cccc8c88cccc8cc8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -7139,7 +7139,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"888888888888cc888c8888888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccc8ccccccccccccc888cccccc8cccccccccccccccc8cccccccccccccccc","8888cc888888cc88c88c88888888888888888888888888888888888888888888888888888888888888888888cccccccccccccccccccccccccc8cccc8c88cccc8cc8cccccccc8ccccccc8cccccccccccccccc")
 t.setCursorPos(1,2)
@@ -7305,7 +7305,7 @@ t.blit(HB:rep(164),"888888888888888888888888888c88888888888888888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"888888888888888888888888888888eeeeeeeeeeeeeefff80676008f888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888880","88888888888888888888888888888ceeeeeeeeeeeeeefffffc00000fc88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888880")
 t.setCursorPos(1,2)
@@ -7471,7 +7471,7 @@ t.blit(HB:rep(164),"888888efeeeeeeeec888888cccccccc8cccccccc8ccccc8cc8cccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"8888888888888888888888888888888888efeeeeeeeeeeeeeeeefffffffff8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888880","8888888888888888888888888888888888efeeeeeeeeeeeeeeeeccffffff78888888888888888888888888888888888888888888888c88888888888888888888888888888888888888888888888888888880")
 t.setCursorPos(1,2)
@@ -7637,7 +7637,7 @@ t.blit(HB:rep(164),"88888888eeeeeeeeeec88888888888888888cfeeeeeefe88888ccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"888888888888888888888888888888888888888888888ceeeeeeeeeeeeeeeeefffeeee8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888880","888888888888888888888888888888888888888888888ceeeeeeeeeeeeeeeeeeffeeee8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888880")
 t.setCursorPos(1,2)
@@ -7803,7 +7803,7 @@ t.blit(HB:rep(164),"88888888888888888888888888888888888ceeeeeeeeee88888cccc7cccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88888888888888888888888888888888888888888888888888eeeeeeeeeeeeeeee7e47eeeec88888888888888888888888888888888888888888888888888888888888888888888888888888888888888880","88888888888888888888888888888888888888888888888888eeeeeeeeeeeeeeeefe67eeeec88888888888888888888888888888888888888888888888888888888888888888888888888888888888888886")
 t.setCursorPos(1,2)
@@ -7969,7 +7969,7 @@ t.blit(HB:rep(164),"88888888888888888888888888888888888ceeeeeeeeeec8888cccccc7cc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88888888888888888888888888888888888888888888888888888ceeeeeeeeeeeeeeeeeeffeeeec8888888888888888888888888888888888888888888888888888888888888888888888888888888888886","88888888888888888888888888888888888888888888888888888ceeeeeeeeeeeeeeeeee7feeeec8888888888888888888888888888888888888888888888888888888888888888888888888888888888886")
 t.setCursorPos(1,2)
@@ -8135,7 +8135,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888efeeeeeeee78888ccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888888888888887eeeeeeeeeeeeeeeeeeeefe888888888c88888c888888888888888888888888888888888888888888888888888886","88888888888888888888888888888888888888888888888888888888888888888888888ceeeeeeeeeeeeeeeeeeeefe888888888888c8c8888888888888888888888888888888888888888888888888888888")
 t.setCursorPos(1,2)
@@ -8301,7 +8301,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888ccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88888888888888888888888888888888888888888888888888888888888888888888888888eeeeeeeeeeeeeeeeeeeeeeeefe8888888888888888888888888888888888888888888888888888888888888888","8888888888888888888888888888888888888888888888888888888888888888888888888c77eeeeeeeeeeeeeeeeeeeeeefe888c888888888888888888888888888888888888888888888888888888888888")
 t.setCursorPos(1,2)
@@ -8467,7 +8467,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888ccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888888888888888888888888888888888eceeeeeeeeeeeeeeeeeeeeeeee78888888888888888888888888888888888888888888888888888888888888","8888888888888888888888888888888888888888888888888888888888888888888888888888cfeeeeeeeeeeeeeeeeeeeeeeeec8888888888888888888888888888888888888888888888888888888888888")
 t.setCursorPos(1,2)
@@ -8633,7 +8633,7 @@ t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888ccccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88888888888888888888888888888888888888888888888888888888888888888888888888888888eceeeeeeeeeeeeeeffff7fee788888888888888888888888888888888888888888888888888888888888","88888888888888888888888888888888888888888888888888888888888888888888888888888888efeeeeeeeeeeeeee7fffffee888888888888888888888888888888888888888888888888888888888888")
 t.setCursorPos(1,2)
@@ -8799,7 +8799,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888888888cccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888888888888888888888888888888888888888886ceeeeeeeeeeeeeeeeeeeffe88888888888888888888888888888888888888888888888888888888","888888888888888888888888888888888888888888888888888888888888888888888888888888888888cfeeeeeeeeeeeeeeeeeeeefe88888888888888888888888888888888888888888888888888888888")
 t.setCursorPos(1,2)
@@ -8965,7 +8965,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888888888cccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888efeeeeeeeeeeeeeeeeeeeeeeee888888888888888888888888888888888888888888888888","888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888efeeeeeeeeeeeeeeeeeeeeeeee888888888888888888888888888888888888888888888888")
 t.setCursorPos(1,2)
@@ -9131,7 +9131,7 @@ t.blit(HB:rep(164),"8888888888888888888888888888888888888888888888888888cccccccc
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88ccccccccccccccccccccc8c8c8888888888888888888888888888888888888888888888888888888888888888888888888888888ccccccccccc8cccc8ccccccccccccccccccccccccccccccc888ccccccc","c8ccccccccccccccccccccccccc88888888888888888888888888888888888888888888888888888888888888888888cccc8ccccccccccccccccc88ccccc8cccccccccccc8ccccccc8ccccccccc8cccccccc")
 t.setCursorPos(1,2)
@@ -9297,7 +9297,7 @@ t.blit(HB:rep(164),"c888888888c88888888888888888888888888888cc8ccc8888cc8c888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"88cccccccccccccccccccc88c8c8888888888888888888888888888888888888888888888888888888888888888888888888888888ccccccccccc8cccc8ccc8ccccccccccccccccccccccccccc88cccccccc","c8ccccccccccccccccccccc8ccc888888888888888888888888888888888888888888888888888888888888888888888cc88cccc8cccccccccccc8cccccc8cccccccccccccccccccccccccccccc88ccccccc")
 t.setCursorPos(1,2)
@@ -9463,7 +9463,7 @@ t.blit(HB:rep(164),"cc88888888c888888888888888888888888888888c8ccc88888ccc888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8cccccccccccccccccccc88ccc8888888888888888888888888888888888888888888888888888888888888888888888888888888ccccccccccc8cccc8ccc8ccccccccccccccccccccccccccc88cccccccc","88ccccccccccccccccccccc8ccc8888888888888888888888888888888888888888888888888888888888888888888888888888888ccccccccccc8cccccccccccccccccccccccccccccccccccc888ccccccc")
 t.setCursorPos(1,2)
@@ -9629,7 +9629,7 @@ t.blit(HB:rep(164),"c888888888888888888888888888888888888888888c8c888888cc888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"08c8cccccccccccccccccc888cc88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888ccccccccccccccccccccccc8cccccccc8ccccccccc8cccc6","8c88cccccccccccccccccc8c8cc88888888888888888888888888888888888888888888888888888888888888888888888888888888888888888cccccccccccccccccccccccccccccccccccccccccccccccc")
 t.setCursorPos(1,2)
@@ -9795,7 +9795,7 @@ t.blit(HB:rep(164),"88888888888c888c8888888888888888888888888c888888888888888888
 ]=],
 [=[
 local t = term
-local HB = string.char(223)
+local HB = string.char(143)
 t.setCursorPos(1,1)
 t.blit(HB:rep(164),"c8cccccccccccccccccccc8c88c8888888888888888888888888888888888888888888888888888888888888888888888888888888cccccccccccccc88c88ccccccccccccccc8ccccccccccccc88cccccccc","88ccccccccccccccccc88c8888c8888888888888888888888888888888888888888888888888888888888888888888888888888888cccccccccccccccccccccccccccccccccccccccccccccccc88cccccccc")
 t.setCursorPos(1,2)
