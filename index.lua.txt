@@ -1,0 +1,5 @@
+return {
+  { id = "bg_fight", title = "BG Fight" },
+  { id = "cave", title = "Cave Fight" },
+  { id = "intro", title = "Intro Scene" }
+}
