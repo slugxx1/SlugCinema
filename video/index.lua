@@ -1,3 +1,3 @@
 return {
-  { id = "bg_fight", title = "BG Fight" }
+  { id = "bg_fight", title = "Benjamin vs Ichimaruu" }
 }
