@@ -121,7 +121,8 @@ def write_lua(path: Path, lines):
     with open(path, "w", encoding="utf-8", newline="\n") as f:
         f.write("return {\n")
         for t, fg, bg in lines:
-            f.write(f'{{"{t}","{fg}","{bg}"}},\n')
+            # FORCE raw UTF-8, no escaping at all
+            f.write('{"%s","%s","%s"},\n' % (t, fg, bg))
         f.write("}\n")
 
 def main():
