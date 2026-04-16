@@ -6,6 +6,7 @@ return {
   { id = "aeFUBkFI7wI_video", title = "Benjamin vs PilotBlimp" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
+  { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
   { id = "osamason_ref", title = "Osamason - Ref MV" },
   { id = "osamason_demon_home_mv", title = "Osamason Demon Home MV" },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV" },
