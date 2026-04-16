@@ -7,7 +7,7 @@ OUTPUT_DIR = Path("frame_lua")
 PREVIEW_DIR = Path("preview_full")
 OUTPUT_PREFIX = "frame_"
 
-HALF_BLOCK = "\\143"
+HALF_BLOCK = "\u2580"
 HEX = "0123456789abcdef"
 
 # CC / CC:Tweaked palette
