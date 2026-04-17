@@ -2,6 +2,7 @@ return {
   { id = "backrooms_2", title = "Backrooms Found Footage #2" },
   { id = "backrooms_3", title = "Backrooms Found Footage #3" },
   { id = "benjaminarchanine", title = "Benjamin vs Archanine" },
+  { id = "benjaminichimaru", title = "Benjamin vs Ichimaru" },
   { id = "benjaminluther", title = "Benjamin vs Luther" },
   { id = "benjaminmicwizard", title = "Benjamin vs Mic Wizard" },
   { id = "benjaminpilot", title = "Benjamin vs PilotBlimp" },
