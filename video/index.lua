@@ -16,5 +16,4 @@ return {
   { id = "omnimanscp", title = "SCP 096 vs Omniman" },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg" },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV" },
-  { id = "the_rolling_giant_kane_pixels", title = "The Rolling Giant - Kane Pixels" },
 }
