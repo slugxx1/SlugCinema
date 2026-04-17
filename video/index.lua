@@ -1,15 +1,7 @@
 return {
   { id = "backrooms_2", title = "Backrooms Found Footage #2" },
   { id = "backrooms_3", title = "Backrooms Found Footage #3" },
-  { id = "benjamin_vs_archanine", title = "Benjamin vs Archanine" },
-  { id = "bg_fight", title = "Benjamin vs Ichimaruu" },
-  { id = "benjamin_vs_luther", title = "Benjamin VS Luther" },
-  { id = "benjamin_vs_micwizard", title = "Benjamin VS MicWizard" },
-<<<<<<< HEAD
-=======
-  { id = "aeFUBkFI7wI_video", title = "Benjamin vs PilotBlimp" },
   { id = "benjaminpilot", title = "Benjamin vs PilotBlimp" },
->>>>>>> 73f9d22 (Add video: Benjamin vs PilotBlimp (benjaminpilot))
   { id = "conquestsuperman", title = "Conquest vs Superman" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
