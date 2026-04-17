@@ -1,4 +1,5 @@
 return {
+  { id = "backrooms_3", title = "Backrooms Found Footage #3" },
   { id = "benjamin_vs_archanine", title = "Benjamin vs Archanine" },
   { id = "bg_fight", title = "Benjamin vs Ichimaruu" },
   { id = "benjamin_vs_luther", title = "Benjamin VS Luther" },
