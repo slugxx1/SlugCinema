@@ -10,6 +10,7 @@ return {
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
   { id = "osamason_ref", title = "Osamason - Ref MV" },
   { id = "osamason_demon_home_mv", title = "Osamason Demon Home MV" },
+  { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg" },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV" },
   { id = "the_rolling_giant_kane_pixels", title = "The Rolling Giant - Kane Pixels" },
 }
