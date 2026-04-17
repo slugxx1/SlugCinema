@@ -4,6 +4,7 @@ return {
   { id = "benjamin_vs_luther", title = "Benjamin VS Luther" },
   { id = "benjamin_vs_micwizard", title = "Benjamin VS MicWizard" },
   { id = "aeFUBkFI7wI_video", title = "Benjamin vs PilotBlimp" },
+  { id = "conquest_vs_superman", title = "Conquest vs Superman" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
