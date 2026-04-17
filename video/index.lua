@@ -1,7 +1,6 @@
 return {
   { id = "backrooms_2", title = "Backrooms Found Footage #2" },
   { id = "backrooms_3", title = "Backrooms Found Footage #3" },
-  { id = "benjaminichimaru", title = "Benjamin vs Ichimaru" },
   { id = "conquestsuperman", title = "Conquest vs Superman" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
