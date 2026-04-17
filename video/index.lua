@@ -1,18 +1,3 @@
 return {
-  { id = "benjamin_vs_archanine", title = "Benjamin vs Archanine" },
-  { id = "bg_fight", title = "Benjamin vs Ichimaruu" },
-  { id = "benjamin_vs_luther", title = "Benjamin VS Luther" },
-  { id = "benjamin_vs_micwizard", title = "Benjamin VS MicWizard" },
-  { id = "aeFUBkFI7wI_video", title = "Benjamin vs PilotBlimp" },
-  { id = "conquest_vs_superman", title = "Conquest vs Superman" },
-  { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
-  { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
-  { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
-  { id = "osamason_ref", title = "Osamason - Ref MV" },
-  { id = "osamason_demon_home_mv", title = "Osamason Demon Home MV" },
-  { id = "scp_096_vs_conquest", title = "SCP 096 vs Conquest" },
-  { id = "scp_096_vs_omniman", title = "SCP 096 vs Omniman" },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg" },
-  { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV" },
-  { id = "the_rolling_giant_kane_pixels", title = "The Rolling Giant - Kane Pixels" },
 }
