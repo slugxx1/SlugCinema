@@ -5,6 +5,7 @@ return {
   { id = "benjaminichimaru", title = "Benjamin vs Ichimaru" },
   { id = "benjaminluther", title = "Benjamin vs Luther" },
   { id = "benjaminmicwizard", title = "Benjamin vs Mic Wizard" },
+  { id = "benjaminpivot", title = "Benjamin vs Pivot Blimp" },
   { id = "conquestsuperman", title = "Conquest vs Superman" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
