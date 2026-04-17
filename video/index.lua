@@ -10,7 +10,6 @@ return {
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
   { id = "osamason_ref", title = "Osamason - Ref MV" },
   { id = "osamason_demon_home_mv", title = "Osamason Demon Home MV" },
-  { id = "scp_096_battlebeast", title = "SCP 096 vs Battlebeast" },
   { id = "scp_096_homelander", title = "SCP 096 vs Homelander" },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg" },
   { id = "omnimanscp", title = "SCP 096 vs Omniman" },
