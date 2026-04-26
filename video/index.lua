@@ -8,6 +8,7 @@ return {
   { id = "benjaminmicwizard", title = "Benjamin vs Mic Wizard" },
   { id = "benjaminpivot", title = "Benjamin vs Pivot Blimp" },
   { id = "conquestsuperman", title = "Conquest vs Superman" },
+  { id = "homelandercrashout", title = "Homelander Crashout Comp" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
