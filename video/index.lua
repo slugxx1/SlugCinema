@@ -29,7 +29,6 @@ return {
   { id = "omnimanscp", title = "SCP 096 vs Omniman", fps = 12 },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg", fps = 12 },
   { id = "soldierboy1", title = "Soldier Boy Clip", fps = 12 },
-  { id = "soldierboyzaza2", title = "Soldier Boy Zaza Clip (ULTRA HIGH FPS)", fps = 45 },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV", fps = 12 },
   { id = "rollinggiant", title = "The Rolling Giant Kane Pixels", fps = 12 },
 }
