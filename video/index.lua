@@ -18,6 +18,7 @@ return {
   { id = "grogofucku", title = "Grogu Mandalorian Trailer", fps = 12 },
   { id = "homelandercrashout", title = "Homelander Crashout Comp", fps = 12 },
   { id = "homelanderblindspot", title = "Homelander meets Blindspot (ULTRA HIGH FPS)", fps = 45 },
+  { id = "xqcice", title = "ICE MeatCanyon (ULTRA HIGH FPS)", fps = 45 },
   { id = "ilia1", title = "Ilia Topuria vs Charles Oliveria", fps = 12 },
   { id = "conquestinvincible", title = "Invincible vs Conquest High FPS", fps = 24 },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE", fps = 12 },
