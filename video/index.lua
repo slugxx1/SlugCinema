@@ -14,6 +14,7 @@ return {
   { id = "grogofucku", title = "Grogu Mandalorian Trailer", fps = 12 },
   { id = "homelandercrashout", title = "Homelander Crashout Comp", fps = 12 },
   { id = "ilia1", title = "Ilia Topuria vs Charles Oliveria", fps = 12 },
+  { id = "conquestinvincible", title = "Invincible vs Conquest High FPS", fps = 24 },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE", fps = 12 },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV", fps = 12 },
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV", fps = 12 },
