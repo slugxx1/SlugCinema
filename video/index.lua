@@ -9,6 +9,7 @@ return {
   { id = "benjaminmicwizard", title = "Benjamin vs Mic Wizard" },
   { id = "benjaminpivot", title = "Benjamin vs Pivot Blimp" },
   { id = "conquestsuperman", title = "Conquest vs Superman" },
+  { id = "diegojean", title = "Diego Lopes vs Jean Silva" },
   { id = "grogofucku", title = "Grogu Mandalorian Trailer" },
   { id = "homelandercrashout", title = "Homelander Crashout Comp" },
   { id = "ilia1", title = "Ilia Topuria vs Charles Oliveria" },
