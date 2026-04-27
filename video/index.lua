@@ -10,6 +10,7 @@ return {
   { id = "benjaminpivot", title = "Benjamin vs Pivot Blimp", fps = 12 },
   { id = "conquesttest", title = "Conquest Arrival High FPS", fps = 22 },
   { id = "conquestsuperman", title = "Conquest vs Superman", fps = 12 },
+  { id = "thedeep1", title = "Deep Thoughts with The Deep (ULTRA HIGH FPS)", fps = 45 },
   { id = "diegojean", title = "Diego Lopes vs Jean Silva", fps = 12 },
   { id = "grogofucku", title = "Grogu Mandalorian Trailer", fps = 12 },
   { id = "homelandercrashout", title = "Homelander Crashout Comp", fps = 12 },
