@@ -31,6 +31,7 @@ return {
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg", fps = 12 },
   { id = "scp096thragg2", title = "SCP 096 vs Thragg (ULTRA HIGH FPS)", fps = 45 },
   { id = "soldierboy1", title = "Soldier Boy Clip", fps = 12 },
+  { id = "soldierboy2", title = "Soldier Boy Zaza Clip (ULTRA HIGH FPS)", fps = 45 },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV", fps = 12 },
   { id = "rollinggiant", title = "The Rolling Giant Kane Pixels", fps = 12 },
 }
