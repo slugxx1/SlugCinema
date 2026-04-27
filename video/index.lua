@@ -8,6 +8,7 @@ return {
   { id = "benjaminluther", title = "Benjamin vs Luther", fps = 12 },
   { id = "benjaminmicwizard", title = "Benjamin vs Mic Wizard", fps = 12 },
   { id = "benjaminpivot", title = "Benjamin vs Pivot Blimp", fps = 12 },
+  { id = "conquesttest", title = "Conquest Arrival High FPS", fps = 22 },
   { id = "conquestsuperman", title = "Conquest vs Superman", fps = 12 },
   { id = "diegojean", title = "Diego Lopes vs Jean Silva", fps = 12 },
   { id = "grogofucku", title = "Grogu Mandalorian Trailer", fps = 12 },
