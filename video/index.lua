@@ -18,6 +18,7 @@ return {
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE", fps = 12 },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV", fps = 12 },
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV", fps = 12 },
+  { id = "omnimaninvincible", title = "Omniman vs. The Guardians of the Globe (ULTRA HIGH FPS)", fps = 30 },
   { id = "osamason_ref", title = "Osamason - Ref MV", fps = 12 },
   { id = "osamason_demon_home_mv", title = "Osamason Demon Home MV", fps = 12 },
   { id = "scp_096_homelander", title = "SCP 096 vs Homelander", fps = 12 },
