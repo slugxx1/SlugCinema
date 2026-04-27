@@ -27,6 +27,7 @@ return {
   { id = "omnimaninvincible", title = "Omniman vs. The Guardians of the Globe (ULTRA HIGH FPS)", fps = 30 },
   { id = "osamason_ref", title = "Osamason - Ref MV", fps = 12 },
   { id = "osamason_demon_home_mv", title = "Osamason Demon Home MV", fps = 12 },
+  { id = "pokemonmeatcanyon", title = "Pokemon Card Scalpers MeatCanyon (ULTRA HIGH FPS)", fps = 45 },
   { id = "scp_096_homelander", title = "SCP 096 vs Homelander", fps = 12 },
   { id = "omnimanscp", title = "SCP 096 vs Omniman", fps = 12 },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg", fps = 12 },
