@@ -11,6 +11,7 @@ return {
   { id = "conquestsuperman", title = "Conquest vs Superman" },
   { id = "grogofucku", title = "Grogu Mandalorian Trailer" },
   { id = "homelandercrashout", title = "Homelander Crashout Comp" },
+  { id = "ilia1", title = "Ilia Topuria vs Charles Oliveria" },
   { id = "nemesis_mission_revenge", title = "NEMESIS Mission: REVENGE" },
   { id = "nettspend_ft_osamason_wake_up_mv", title = "Nettspend ft. OsamaSon - Wake Up MV" },
   { id = "nettspend_shutup_mv", title = "Nettspend Shutup MV" },
