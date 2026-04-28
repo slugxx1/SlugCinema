@@ -28,5 +28,7 @@ return {
   { id = "omnimanscp", title = "SCP 096 vs Omniman", fps = 12 },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg", fps = 12 },
   { id = "soldierboy1", title = "Soldier Boy Clip", fps = 12 },
+  { id = "soldierboy2_p01", title = "Soldier Boy High (ULTRA HIGH FPS) Part 1", fps = 30 },
+  { id = "soldierboy2_p02", title = "Soldier Boy High (ULTRA HIGH FPS) Part 2", fps = 30 },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV", fps = 12 },
 }
