@@ -12,7 +12,7 @@ return {
   { id = "conquest_vs_invincible_ultra_high_fps_p01", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 1", fps = 1 },
   { id = "conquest_vs_invincible_ultra_high_fps_p02", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 2", fps = 2 },
   { id = "conquest_vs_invincible_ultra_high_fps_p03", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 3", fps = 3 },
-  { id = "conquest_vs_invincible_ultra_high_fps_p04", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 4", fps = 30 },
+  { id = "conquest_vs_invincible_ultra_high_fps_p04", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 4", fps = 4 },
   { id = "conquestsuperman", title = "Conquest vs Superman", fps = 12 },
   { id = "thedeep1", title = "Deep Thoughts with The Deep (ULTRA HIGH FPS)", fps = 45 },
   { id = "thedeep2", title = "Deep Thoughts with The Deep 2 (ULTRA HIGH FPS)", fps = 45 },
@@ -32,5 +32,7 @@ return {
   { id = "omnimanscp", title = "SCP 096 vs Omniman", fps = 12 },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg", fps = 12 },
   { id = "soldierboy1", title = "Soldier Boy Clip", fps = 12 },
+  { id = "soldierboy2_p01", title = "Soldier Boy High Clip (ULTRA HIGH FPS Part 1", fps = 30 },
+  { id = "soldierboy2_p02", title = "Soldier Boy High Clip (ULTRA HIGH FPS Part 2", fps = 30 },
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV", fps = 12 },
 }
