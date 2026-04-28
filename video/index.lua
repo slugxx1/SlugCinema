@@ -9,11 +9,13 @@ return {
   { id = "benjaminmicwizard", title = "Benjamin vs Mic Wizard", fps = 12 },
   { id = "benjaminpivot", title = "Benjamin vs Pivot Blimp", fps = 12 },
   { id = "conquesttest", title = "Conquest Arrival High FPS", fps = 22 },
-  { id = "conquestinvincible_p01", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 1", fps = 40 },
-  { id = "conquestinvincible_p02", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 2", fps = 40 },
-  { id = "conquestinvincible_p03", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 3", fps = 40 },
-  { id = "conquestinvincible_p04", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 4", fps = 40 },
+
+  { id = "conquestinvincible_p01", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 1", fps = 40, next = "conquestinvincible_p02" },
+  { id = "conquestinvincible_p02", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 2", fps = 40, next = "conquestinvincible_p03" },
+  { id = "conquestinvincible_p03", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 3", fps = 40, next = "conquestinvincible_p04" },
+  { id = "conquestinvincible_p04", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 4", fps = 40, next = "conquestinvincible_p05" },
   { id = "conquestinvincible_p05", title = "Conquest vs Invincible (ULTRA HIGH FPS) Part 5", fps = 40 },
+
   { id = "conquestsuperman", title = "Conquest vs Superman", fps = 12 },
   { id = "thedeep1", title = "Deep Thoughts with The Deep (ULTRA HIGH FPS)", fps = 45 },
   { id = "thedeep2", title = "Deep Thoughts with The Deep 2 (ULTRA HIGH FPS)", fps = 45 },
@@ -33,7 +35,9 @@ return {
   { id = "omnimanscp", title = "SCP 096 vs Omniman", fps = 12 },
   { id = "scp_096_vs_thragg", title = "SCP 096 vs Thragg", fps = 12 },
   { id = "soldierboy1", title = "Soldier Boy Clip", fps = 12 },
-  { id = "soldierboy2_p01", title = "Soldier Boy High (ULTRA HIGH FPS) Part 1", fps = 30 },
+
+  { id = "soldierboy2_p01", title = "Soldier Boy High (ULTRA HIGH FPS) Part 1", fps = 30, next = "soldierboy2_p02" },
   { id = "soldierboy2_p02", title = "Soldier Boy High (ULTRA HIGH FPS) Part 2", fps = 30 },
+
   { id = "summrs_prove_sum_mv", title = "summrs - prove sum MV", fps = 12 },
 }
